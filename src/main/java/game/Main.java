@@ -1,5 +1,5 @@
 package game;
-/*
+/**
 Mastermind: zaimplementuj grę Mastermind, której zasady są następujące: komputer losuje 3 cyfry (od 0 do 9).
 Użytkownik ma za zadanie je odgadnąć, wpisując je w jednej linii, po spacji, np 1 2 3.
 Następnie użytkownik dostaje informację zwrotną od komputera w formie trzech wyrazów.
